@@ -1,0 +1,13 @@
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\bin\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.exe
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\bin\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.deps.json
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\bin\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.runtimeconfig.json
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\bin\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.runtimeconfig.dev.json
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\bin\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.dll
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\bin\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.pdb
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\obj\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.csprojAssemblyReference.cache
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\obj\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.AssemblyInfoInputs.cache
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\obj\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.AssemblyInfo.cs
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\obj\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.csproj.CoreCompileInputs.cache
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\obj\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.dll
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\obj\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.pdb
+E:\КПІ_МАТЕРІАЛИ\ОП(Основи_програмування)\Tic-Tac-Toe_Unbeatable\Tic_Tac_Toe-Ideal_Game\Tic_Tac_Toe-Ideal_Game\obj\Debug\netcoreapp3.1\Tic_Tac_Toe-Ideal_Game.genruntimeconfig.cache
